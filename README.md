@@ -1,1 +1,2 @@
-Collections of vulnerabilities found by Agent.
+--------------------
+Collections of vulnerabilities found by Agenticensor.

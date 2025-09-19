@@ -71,3 +71,6 @@ curl -X POST "http://localhost:1984/api/config" \
 - **Persistent Access**: Configuration changes persist after system reboot
 - **Data Leakage**: Access to sensitive system files and data
 - **Service Denial**: Resource exhaustion commands can cause service disruption
+
+---------------------
+## https://github.com/AlexxIT/go2rtc/issues/1878

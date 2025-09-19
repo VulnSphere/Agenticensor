@@ -73,4 +73,4 @@ curl -X POST "http://localhost:1984/api/config" \
 - **Service Denial**: Resource exhaustion commands can cause service disruption
 
 ---------------------
-## https://github.com/AlexxIT/go2rtc/issues/1878
+#### Link: https://github.com/AlexxIT/go2rtc/issues/1878

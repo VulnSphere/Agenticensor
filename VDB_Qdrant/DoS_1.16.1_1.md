@@ -1,7 +1,7 @@
 Qdrant min_should min_count leads to DoS and potential panic
 
 - **Product**: Qdrant
-- **Affected Version**: v1.16.0
+- **Affected Version**: v1.16.1
 - **Component**: Payload filtering cardinality estimator and optimizer for `min_should` filters
 - **Impact Type**: Denial of Service (memory), potential panic depending on runtime
 - **Severity**: High (DoS). 

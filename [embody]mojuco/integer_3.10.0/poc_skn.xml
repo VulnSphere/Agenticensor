@@ -1,0 +1,8 @@
+<mujoco model="poc_skn">
+  <asset>
+    <skin name="s" file="poc_skn.skn"/>
+  </asset>
+  <worldbody>
+    <geom type="plane" size="1 1 1"/>
+  </worldbody>
+</mujoco>
